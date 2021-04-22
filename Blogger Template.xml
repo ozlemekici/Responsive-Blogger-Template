@@ -2200,6 +2200,7 @@ var _0x361c=["\x39\x20\x35\x28\x68\x29\x7B\x35\x2E\x74\x3D\x35\x2E\x74\x7C\x7C\x
     <!-- Top Social -->
 	<div class='social-buttons'>
 		<ul>
+ <li><a href='https://www.instagram.com/ozzlemekici/'><i class='fa fa-instagram'/></a></li>
  <li><a href='https://open.spotify.com/user/gvbq1p8w8lbi8bs9rb8q6qw1h?si=ZVV_APLSQIeSF73vHh6'><i class='fa fa-spotify'/></a></li>
  <li><a href='https://www.linkedin.com/in/ozlemekici/'><i class='fa fa-linkedin'/></a></li>
  <li><a href='mailto:ozlemm0.0tuba@gmail.com?subject=Merhaba'><i class='fa fa-envelope'/></a></li>
@@ -3686,6 +3687,7 @@ document.oncopy = addLink;
 <!--Social Profile Links-->
 <div class='social'>
 <ul>
+ <li><a href='https://www.instagram.com/ozzlemekici/'><i class='fa fa-instagram'/> Instagram</a></li>
   <li><a href='https://open.spotify.com/user/gvbq1p8w8lbi8bs9rb8q6qw1h?si=ZVV_APLSQIeSF73vHh6'><i class='fa fa-spotify'/> Spotify</a></li>
  <li><a href='https://www.linkedin.com/in/ozlemekici/'><i class='fa fa-linkedin'/> LinkedIn</a></li>
   <li><a href='mailto:ozlemm0.0tuba@gmail.com?subject=Merhaba'><i class='fa fa-envelope'/> Gmail</a></li>
