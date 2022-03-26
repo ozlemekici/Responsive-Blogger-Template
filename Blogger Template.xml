@@ -2200,7 +2200,7 @@ var _0x361c=["\x39\x20\x35\x28\x68\x29\x7B\x35\x2E\x74\x3D\x35\x2E\x74\x7C\x7C\x
     <!-- Top Social -->
 	<div class='social-buttons'>
 		<ul>
- <li><a href='https://www.instagram.com/ozzlemekici/'><i class='fa fa-instagram'/></a></li>
+ <li><a href='https://www.instagram.com/ozzlemekici/'><i class='fa fa-instagram'/></a></li>         
  <li><a href='https://open.spotify.com/user/gvbq1p8w8lbi8bs9rb8q6qw1h?si=ZVV_APLSQIeSF73vHh6'><i class='fa fa-spotify'/></a></li>
  <li><a href='https://www.linkedin.com/in/ozlemekici/'><i class='fa fa-linkedin'/></a></li>
  <li><a href='mailto:ozlemm0.0tuba@gmail.com?subject=Merhaba'><i class='fa fa-envelope'/></a></li>
@@ -2415,7 +2415,7 @@ var _0x361c=["\x39\x20\x35\x28\x68\x29\x7B\x35\x2E\x74\x3D\x35\x2E\x74\x7C\x7C\x
       </b:if>
 
         <b:section class='main' id='main' showaddelement='no'>
-          <b:widget id='Blog1' locked='true' title='Blog Yayınları' type='Blog' version='1'>
+          <b:widget id='Blog1' locked='true' title='Blog Kayıtları' type='Blog' version='1'>
             <b:widget-settings>
               <b:widget-setting name='showDateHeader'>true</b:widget-setting>
               <b:widget-setting name='style.textcolor'>#000000</b:widget-setting>
@@ -2427,6 +2427,7 @@ var _0x361c=["\x39\x20\x35\x28\x68\x29\x7B\x35\x2E\x74\x3D\x35\x2E\x74\x7C\x7C\x
               <b:widget-setting name='style.linkcolor'>#0000ff</b:widget-setting>
               <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
               <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+              <b:widget-setting name='reactionsLabel'/>
               <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
               <b:widget-setting name='style.layout'>1x1</b:widget-setting>
               <b:widget-setting name='showLabels'>true</b:widget-setting>
@@ -2435,7 +2436,7 @@ var _0x361c=["\x39\x20\x35\x28\x68\x29\x7B\x35\x2E\x74\x3D\x35\x2E\x74\x7C\x7C\x
               <b:widget-setting name='postsPerAd'>1</b:widget-setting>
               <b:widget-setting name='showBacklinks'>false</b:widget-setting>
               <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
-              <b:widget-setting name='showInlineAds'>true</b:widget-setting>
+              <b:widget-setting name='showInlineAds'>false</b:widget-setting>
               <b:widget-setting name='showReactions'>false</b:widget-setting>
             </b:widget-settings>
             <b:includable id='main' var='top'>
@@ -3605,7 +3606,147 @@ src=&quot;https://4.bp.blogspot.com/-cOyoveFHmaI/WIX68DnD1tI/AAAAAAAAAxA/FCK3a9m
   </a>
 </b:includable>
   </b:widget>
-  <b:widget id='Navbar1' locked='true' title='Gezinme Çubuğu' type='Navbar' version='1'>
+  <b:widget id='HTML3' locked='false' title='' type='HTML'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>&lt;!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work --&gt;
+      &lt;style type=&quot;text/css&quot; media=&quot;screen&quot;&gt;
+  .gr_custom_container_1621087455 {
+    /* customize your Goodreads widget container here*/
+    border: 1px solid gray;
+    border-radius:10px;
+    padding: 10px 5px 10px 5px;
+    background-color: #FFFFFF;
+    color: #000000;
+    width: 300px
+  }
+  .gr_custom_header_1621087455 {
+    /* customize your Goodreads header here*/
+    border-bottom: 1px solid gray;
+    width: 100%;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 120%
+  }
+  .gr_custom_each_container_1621087455 {
+    /* customize each individual book container here */
+    width: 100%;
+    clear: both;
+    margin-bottom: 10px;
+    overflow: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #aaa;
+  }
+  .gr_custom_book_container_1621087455 {
+    /* customize your book covers here */
+    overflow: hidden;
+    height: 60px;
+      float: left;
+      margin-right: 4px;
+      width: 39px;
+  }
+  .gr_custom_author_1621087455 {
+    /* customize your author names here */
+    font-size: 10px;
+  }
+  .gr_custom_tags_1621087455 {
+    /* customize your tags here */
+    font-size: 10px;
+    color: gray;
+  }
+  .gr_custom_rating_1621087455 {
+    /* customize your rating stars here */
+    float: right;
+  }
+&lt;/style&gt;
+
+      &lt;div id=&quot;gr_custom_widget_1621087455&quot;&gt;
+          &lt;div class=&quot;gr_custom_container_1621087455&quot;&gt;
+    &lt;h2 class=&quot;gr_custom_header_1621087455&quot;&gt;
+    &lt;a style=&quot;text-decoration: none;&quot; rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/list/126626027-zlem-e?shelf=read&amp;amp;utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;Özlem&amp;#39;s bookshelf&lt;/a&gt;
+    &lt;/h2&gt;
+      &lt;div class=&quot;gr_custom_each_container_1621087455&quot;&gt;
+          &lt;div class=&quot;gr_custom_book_container_1621087455&quot;&gt;
+            &lt;a title=&quot;Gecenin Sonuna Yolculuk (Ferdinand Bardamu, #1)&quot; rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708294488?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;&lt;img alt=&quot;Gecenin Sonuna Yolculuk&quot; border=&quot;0&quot; src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437516746l/8668800._SY75_.jpg&quot; /&gt;&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_title_1621087455&quot;&gt;
+            &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708294488?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;Gecenin Sonuna Yolculuk&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_author_1621087455&quot;&gt;
+            by &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/author/show/7869.Louis_Ferdinand_C_line&quot;&gt;Louis-Ferdinand Céline&lt;/a&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;gr_custom_each_container_1621087455&quot;&gt;
+          &lt;div class=&quot;gr_custom_book_container_1621087455&quot;&gt;
+            &lt;a title=&quot;Tekme Tokatlı Şehir Rehberi&quot; rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708300498?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;&lt;img alt=&quot;Tekme Tokatlı Şehir Rehberi&quot; border=&quot;0&quot; src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491302090l/34789990._SX50_.jpg&quot; /&gt;&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_title_1621087455&quot;&gt;
+            &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708300498?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;Tekme Tokatlı Şehir Rehberi&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_author_1621087455&quot;&gt;
+            by &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/author/show/16667697.Mevsim_Yenice&quot;&gt;Mevsim Yenice&lt;/a&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;gr_custom_each_container_1621087455&quot;&gt;
+          &lt;div class=&quot;gr_custom_book_container_1621087455&quot;&gt;
+            &lt;a title=&quot;Körlük&quot; rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708304757?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;&lt;img alt=&quot;Körlük&quot; border=&quot;0&quot; src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344528137l/15812978._SY75_.jpg&quot; /&gt;&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_title_1621087455&quot;&gt;
+            &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708304757?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;Körlük&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_author_1621087455&quot;&gt;
+            by &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/author/show/1285555.Jos_Saramago&quot;&gt;José Saramago&lt;/a&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;gr_custom_each_container_1621087455&quot;&gt;
+          &lt;div class=&quot;gr_custom_book_container_1621087455&quot;&gt;
+            &lt;a title=&quot;Otomatik Portakal&quot; rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708305436?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;&lt;img alt=&quot;Otomatik Portakal&quot; border=&quot;0&quot; src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387018828l/19458775._SY75_.jpg&quot; /&gt;&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_title_1621087455&quot;&gt;
+            &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708305436?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;Otomatik Portakal&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_author_1621087455&quot;&gt;
+            by &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/author/show/5735.Anthony_Burgess&quot;&gt;Anthony Burgess&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_review_1621087455&quot;&gt;
+            
+          &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;gr_custom_each_container_1621087455&quot;&gt;
+          &lt;div class=&quot;gr_custom_book_container_1621087455&quot;&gt;
+            &lt;a title=&quot;Olağanüstü Bir Gece&quot; rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708306238?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;&lt;img alt=&quot;Olağanüstü Bir Gece&quot; border=&quot;0&quot; src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600548433l/27839637._SY75_.jpg&quot; /&gt;&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_title_1621087455&quot;&gt;
+            &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/review/show/3708306238?utm_medium=api&amp;amp;utm_source=custom_widget&quot;&gt;Olağanüstü Bir Gece&lt;/a&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;gr_custom_author_1621087455&quot;&gt;
+            by &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/author/show/25573.Stefan_Zweig&quot;&gt;Stefan Zweig&lt;/a&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+  &lt;br style=&quot;clear: both&quot;/&gt;
+  &lt;center&gt;
+    &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/&quot;&gt;&lt;img alt=&quot;goodreads.com&quot; style=&quot;border:0&quot; src=&quot;https://s.gr-assets.com/images/widget/widget_logo.gif&quot; /&gt;&lt;/a&gt;
+  &lt;/center&gt;
+  &lt;noscript&gt;
+    Share &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/&quot;&gt;book reviews&lt;/a&gt; and ratings with Özlem E, and even join a &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.goodreads.com/group&quot;&gt;book club&lt;/a&gt; on Goodreads.
+  &lt;/noscript&gt;
+  &lt;/div&gt;
+
+      &lt;/div&gt;
+      &lt;script src=&quot;https://www.goodreads.com/review/custom_widget/126626027.%C3%96zlem&#39;s%20bookshelf?cover_position=left&amp;cover_size=small&amp;num_books=5&amp;order=a&amp;shelf=read&amp;show_author=1&amp;show_cover=1&amp;show_rating=0&amp;show_review=1&amp;show_tags=1&amp;show_title=1&amp;sort=date_added&amp;widget_bg_color=FFFFFF&amp;widget_bg_transparent=&amp;widget_border_width=1&amp;widget_id=1621087455&amp;widget_text_color=000000&amp;widget_title_size=medium&amp;widget_width=medium&quot; type=&quot;text/javascript&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
+</b:includable>
+  </b:widget>
+  <b:widget id='Navbar1' locked='true' title='Navbar' type='Navbar' version='1'>
     <b:includable id='main'>&lt;script type=&quot;text/javascript&quot;&gt;
     function setAttributeOnload(object, attribute, val) {
       if(window.addEventListener) {
@@ -3638,6 +3779,23 @@ if (head) {
 head.appendChild(script);
 }})();
 &lt;/script&gt;
+</b:includable>
+  </b:widget>
+  <b:widget id='HTML2' locked='false' title='MİNİ ALBÜM' type='HTML'>
+    <b:widget-settings>
+      <b:widget-setting name='content'>&lt;!-- SnapWidget --&gt;
+&lt;iframe src=&quot;https://snapwidget.com/embed/944335&quot; class=&quot;snapwidget-widget&quot; allowtransparency=&quot;true&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:none; overflow:hidden;  width:309px; height:309px&quot;&gt;&lt;/iframe&gt;</b:widget-setting>
+    </b:widget-settings>
+    <b:includable id='main'>
+  <!-- only display title if it's non-empty -->
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='widget-content'>
+    <data:content/>
+  </div>
+
+  <b:include name='quickedit'/>
 </b:includable>
   </b:widget>
   <b:widget id='HTML4' locked='false' title='' type='HTML'>
@@ -3687,7 +3845,7 @@ document.oncopy = addLink;
 <!--Social Profile Links-->
 <div class='social'>
 <ul>
- <li><a href='https://www.instagram.com/ozzlemekici/'><i class='fa fa-instagram'/> Instagram</a></li>
+  <li><a href='https://www.instagram.com/ozzlemekici/'><i class='fa fa-instagram'/> Instagram</a></li>
   <li><a href='https://open.spotify.com/user/gvbq1p8w8lbi8bs9rb8q6qw1h?si=ZVV_APLSQIeSF73vHh6'><i class='fa fa-spotify'/> Spotify</a></li>
  <li><a href='https://www.linkedin.com/in/ozlemekici/'><i class='fa fa-linkedin'/> LinkedIn</a></li>
   <li><a href='mailto:ozlemm0.0tuba@gmail.com?subject=Merhaba'><i class='fa fa-envelope'/> Gmail</a></li>
@@ -3721,7 +3879,7 @@ document.oncopy = addLink;
 	 		<a href='/' id='mycontent'>Personal Blogger Templates</a>  | Blog <a href='https://www.linkedin.com/in/ozlemekici/' rel='dofollow' target='_blank'>aa</a>
 		</p>
 		<p style='padding-top: 0px;position: relative;margin-top: -30px;'>
-			Levla&#39;nın Not Defteri - Kişisel Blog | Bütün Hakları Saklıdır | Copyright &#169; | 2016 - 2021
+			Levla&#39;nın Not Defteri - Kişisel Blog | Bütün Hakları Saklıdır | Copyright &#169; | 2016 - 2022
 		</p>
   	</div>  
 </div>
